@@ -1,7 +1,7 @@
 # 📘 JSDoc Documentation
 
 <p align="center">
-  <img src="images/jsdoc.jpg" alt="JSDoc" title="JSDoc" width="100%" height="100%" />
+  <img src="images/jsdoc_logo.png" alt="JSDoc" title="JSDoc" width="100%" height="100%" />
 </p>
 
 <div align="center">
